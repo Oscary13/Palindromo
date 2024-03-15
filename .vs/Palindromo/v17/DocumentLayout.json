@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oscar\\source\\repos\\Palindromo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA496624-3695-4C5C-9C9B-E9B95C63AE29}|Palindromo\\Palindromo.vbproj|c:\\users\\oscar\\source\\repos\\palindromo\\palindromo\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FA496624-3695-4C5C-9C9B-E9B95C63AE29}|Palindromo\\Palindromo.vbproj|solutionrelative:palindromo\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\Palindromo\\Palindromo\\Program.vb",
+              "RelativeDocumentMoniker": "Palindromo\\Program.vb",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\Palindromo\\Palindromo\\Program.vb",
+              "RelativeToolTip": "Palindromo\\Program.vb",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwDcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-15T06:47:24.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

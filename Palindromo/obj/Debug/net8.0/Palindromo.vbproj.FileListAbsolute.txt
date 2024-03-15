@@ -1,0 +1,14 @@
+C:\Users\oscar\source\repos\Palindromo\Palindromo\bin\Debug\net8.0\Palindromo.exe
+C:\Users\oscar\source\repos\Palindromo\Palindromo\bin\Debug\net8.0\Palindromo.deps.json
+C:\Users\oscar\source\repos\Palindromo\Palindromo\bin\Debug\net8.0\Palindromo.runtimeconfig.json
+C:\Users\oscar\source\repos\Palindromo\Palindromo\bin\Debug\net8.0\Palindromo.dll
+C:\Users\oscar\source\repos\Palindromo\Palindromo\bin\Debug\net8.0\Palindromo.pdb
+C:\Users\oscar\source\repos\Palindromo\Palindromo\obj\Debug\net8.0\Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\source\repos\Palindromo\Palindromo\obj\Debug\net8.0\Palindromo.AssemblyInfoInputs.cache
+C:\Users\oscar\source\repos\Palindromo\Palindromo\obj\Debug\net8.0\Palindromo.AssemblyInfo.vb
+C:\Users\oscar\source\repos\Palindromo\Palindromo\obj\Debug\net8.0\Palindromo.vbproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Palindromo\Palindromo\obj\Debug\net8.0\Palindromo.dll
+C:\Users\oscar\source\repos\Palindromo\Palindromo\obj\Debug\net8.0\refint\Palindromo.dll
+C:\Users\oscar\source\repos\Palindromo\Palindromo\obj\Debug\net8.0\Palindromo.pdb
+C:\Users\oscar\source\repos\Palindromo\Palindromo\obj\Debug\net8.0\Palindromo.genruntimeconfig.cache
+C:\Users\oscar\source\repos\Palindromo\Palindromo\obj\Debug\net8.0\ref\Palindromo.dll
